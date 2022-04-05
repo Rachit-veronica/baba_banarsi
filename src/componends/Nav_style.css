@@ -1,0 +1,12 @@
+#card{
+    margin-right: 22px;
+    color:aliceblue;
+    font-size: x-large;
+}
+#viewproduct{
+    position:absolute;
+    margin-left: 650px;
+    top: 60%;
+    font-size: xx-large;
+    border-radius: 25px 25px 25px 25px;
+}
